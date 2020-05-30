@@ -40,7 +40,7 @@ header {
 
 .logo {
 	width: 160px;
-	margin: 32px 37px 0;
+	margin: 32px 37px 0 0;
 
 }
 
@@ -181,7 +181,7 @@ header {
 
 .idInput .labelTitle {
 	display: inline-block;
-	font-size: 20px;
+	font-size: 19px;
 	width: 170px;
 }
 
@@ -575,7 +575,7 @@ header {
 	}
 
 	.idInput > div:nth-child(3) a:first-child {
-/*		margin: 0;*/
+		margin-bottom: 4px;
 	}
 
 	.idInput > div:nth-child(3) {
